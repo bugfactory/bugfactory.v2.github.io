@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>{ Home }</title>
+		<description>A little bit about me</description>		
+		<link>http://patito.github.io</link>
+		<atom:link href="http://patito.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Starting in Python</title>
+				        
+				
+					<description>&lt;p&gt;Hi guys new post in my github about pip, easy_install, virtual environments and git. &lt;a href=&quot;https://github.com/patito/teaching-my-wife/blob/master/README.md&quot;&gt;Enjoy it.&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 12 Aug 2015 00:00:00 +0100</pubDate>
+				<link>http://patito.github.io/tech/2015/08/12/starting.html</link>
+				<guid isPermaLink="true">http://patito.github.io/tech/2015/08/12/starting.html</guid>
+			</item>
+		
+			<item>
+				<title>Go Pointers For Padawans</title>
+				        
+				
+					<description>&lt;p&gt;Hi =)&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 09 Aug 2015 00:00:00 +0100</pubDate>
+				<link>http://patito.github.io/tech/2015/08/09/gopointers-for-padawans.html</link>
+				<guid isPermaLink="true">http://patito.github.io/tech/2015/08/09/gopointers-for-padawans.html</guid>
+			</item>
+		
+			<item>
+				<title>GopherCon 2015</title>
+				        
+				
+					<description>Yesterday I received an email from a Brazilian friend with the link of Gopher Conference 2015. It happened in Denver, Colorado, and attracted more than 1,250 attendees. I&#39;m not a Go developer yet, but I&#39;m always studying about the language.
+
+</description>
+				
+				<pubDate>Mon, 03 Aug 2015 00:00:00 +0100</pubDate>
+				<link>http://patito.github.io/tech/2015/08/03/gophercon.html</link>
+				<guid isPermaLink="true">http://patito.github.io/tech/2015/08/03/gophercon.html</guid>
+			</item>
+		
+	</channel>
+</rss>
